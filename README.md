@@ -1,2 +1,2 @@
 # Games
-This repository will just be a hub on github pages that links to some of my other repository's pages
+This is the homepage for Mage Games, kind of a personal portfolio of games that I have made, and a place for people to submit their own homemade games.
